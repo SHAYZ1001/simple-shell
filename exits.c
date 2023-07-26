@@ -57,6 +57,7 @@ char *_strncat(char *dest, char *src, int n)
 	return (s);
 }
 
+
 /**
  **_strchr - locates a character in a string
  *@s: the string to be parsed
